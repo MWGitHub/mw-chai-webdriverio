@@ -1,9 +1,8 @@
 {
-  "name": "chai-webdriverio",
-  "version": "0.4.2",
+  "name": "mw-chai-webdriverio",
+  "version": "0.4.3",
   "description": "Chai assertions for use with webdriverio",
   "license": "Apache-2.0",
-  "repository": "marcodejongh/chai-webdriverio",
   "main": "dist/index.js",
   "author": {
     "name": "Marco De Jongh",
@@ -45,6 +44,6 @@
     "webdriverio": "^4.6.2"
   },
   "peerDependencies": {
-    "chai": "~4.0.1"
+    "chai": "^4.1.2"
   }
 }
